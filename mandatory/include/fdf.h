@@ -6,7 +6,7 @@
 /*   By: stanaka2 <stanaka2@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/07 03:00:55 by stanaka2          #+#    #+#             */
-/*   Updated: 2025/11/14 13:05:21 by stanaka2         ###   ########.fr       */
+/*   Updated: 2026/06/22 21:32:06 by stanaka2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,9 @@
 # include <stdio.h>
 # include <errno.h>
 # include <math.h>
+# include <stdlib.h>
+# include <limits.h>
+# include <unistd.h>
 # include "mlx.h"
 # include <X11/keysym.h>
 # include <X11/X.h>
